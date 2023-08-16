@@ -1,5 +1,5 @@
-import Sidebar from './componentes/Sidebar';
-import MainContent from './componentes/MainContent';
+import Sidebar from './componentes/Sidebar.jsx';
+import MainContent from './componentes/MainContent.jsx';
 import './styles/componentes/app.sass';
 
 function App() {
@@ -12,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
